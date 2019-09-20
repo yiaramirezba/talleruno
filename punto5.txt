@@ -1,0 +1,9 @@
+Punto 5 , Taller 1
+
+Cada persona cree un archivo de texto dentro del proyecto y escriba su nombre y lo
+que mas le gusta hacer, luego realice un commit y posteriormente realice el push de
+los cambios efectuados ¿Ocurrió algún problema al subir los cambios y ambos
+trabajar en diferentes archivos? 
+
+Lo que mas me gusta hacer es..................
+Yinier R
