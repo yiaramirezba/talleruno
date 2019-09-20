@@ -1,0 +1,2 @@
+El objetivo es aprender lo mas que se pueda del paradigma de Programación orientada a objetos y su aplicación en aplicaciones mas elaboradas. Ver si es posible vincularlo con
+conocimientos previos y con lo que se irá aprendiendo en Bases de Datos. 
