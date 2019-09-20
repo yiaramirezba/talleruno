@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Espero aprender a utilizar correctamente las clases en java
+=======
+Espero aprender a programar de manera correcta y optima
+>>>>>>> 4df5294685f742f39aab103656306b3b5cb86f4b
